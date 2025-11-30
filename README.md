@@ -3,9 +3,7 @@
 # ¡Hola! Soy Paulina Rojas 👋
 ### Desarrolladora Full Stack de Python con Django | Entusiasta del UX/UI | Certificada en OCI de Oracle y Analista de Datos de Alura Latam (ONE) | Estudiante de Ingeniería en Informática (U. Mayor)
 
-![Banner](<img width="837" height="391" alt="Captura de pantalla 2025-11-30 121300" src="https://github.com/user-attachments/assets/57bd7c9c-8166-4cfb-9816-349dd3f73330" />
-)
-
+<img width="100%" alt="bannerpau" src="https://github.com/user-attachments/assets/d4d20463-ae6c-40f5-822b-c60d7983df02" />
 
 ---
 
