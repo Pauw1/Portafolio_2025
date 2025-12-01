@@ -11,6 +11,7 @@
 Soy una **apasionada** por la tecnología y el desarrollo de software. Me especializo en crear soluciones eficientes y experiencias de usuario intuitivas. Actualmente estoy enfocada en profundizar en el ecosistema de **Python y el Análisis de Datos**, buscando oportunidades para aportar valor en proyectos desafiantes.
 
 * 🔭 **Actualmente trabajando en:** Gestión de Clínica Dental para Dentistas Independientes.
+  
 * 🌱 **Aprendiendo:** Fullstack, Base de Datos y Análisis de Datos como parte de mi formación general.
 * 📫 **Contáctame:** [rojasgpaulina@gmail.com] | [LinkedIn](https://www.linkedin.com/in/paulinarojasg)
 
@@ -36,6 +37,7 @@ Soy una **apasionada** por la tecnología y el desarrollo de software. Me especi
 **Tecnologías:** Python, Django, Bootstrap, Base de Datos SQL.
 **🔗 Demo en vivo:** [Próximamente]
 **📺 Video Demo:** [Próximamente - Ver sección inferior]
+** Imagen de Adelanto de este producto: <img width="1347" height="464" alt="Captura de pantalla 2025-11-30 113343" src="https://github.com/user-attachments/assets/3886e37f-8369-4d12-b540-492125ac7018" />
 
 ---
 
