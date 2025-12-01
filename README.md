@@ -37,7 +37,9 @@ Soy una **apasionada** por la tecnología y el desarrollo de software. Me especi
 **Tecnologías:** Python, Django, Bootstrap, Base de Datos SQL.
 **🔗 Demo en vivo:** [Próximamente]
 **📺 Video Demo:** [Próximamente - Ver sección inferior]
-** Imagen de Adelanto de este producto: <img width="1347" height="464" alt="Captura de pantalla 2025-11-30 113343" src="https://github.com/user-attachments/assets/3886e37f-8369-4d12-b540-492125ac7018" />
+** Imagenes de Adelanto de este producto: 
+<img width="1341" height="382" alt="Captura de pantalla 2025-12-01 194547" src="https://github.com/user-attachments/assets/e393dae1-518f-4162-88bf-5bf01a098367" />
+<img width="1325" height="587" alt="Captura de pantalla 2025-12-01 194455" src="https://github.com/user-attachments/assets/92f378c9-afa7-47a2-9e99-67a01346f9ff" />
 
 ---
 
